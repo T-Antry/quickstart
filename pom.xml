@@ -9,6 +9,7 @@
     <module>antry-dependencies</module>
     <module>antry-common</module>
     <module>antry-framework</module>
+    <module>antry-service-login</module>
   </modules>
   <packaging>pom</packaging><!-- pom 项目里没有java代码，也不执行任何代码，只是为了聚合工程或传递依赖用 -->
 
